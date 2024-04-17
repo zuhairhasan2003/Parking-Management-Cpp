@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "signIn", "signIn.vcxproj", "{77F04374-C2D6-4777-8248-C653383B3601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77F04374-C2D6-4777-8248-C653383B3601}.Debug|x64.ActiveCfg = Debug|x64
+		{77F04374-C2D6-4777-8248-C653383B3601}.Debug|x64.Build.0 = Debug|x64
+		{77F04374-C2D6-4777-8248-C653383B3601}.Debug|x86.ActiveCfg = Debug|Win32
+		{77F04374-C2D6-4777-8248-C653383B3601}.Debug|x86.Build.0 = Debug|Win32
+		{77F04374-C2D6-4777-8248-C653383B3601}.Release|x64.ActiveCfg = Release|x64
+		{77F04374-C2D6-4777-8248-C653383B3601}.Release|x64.Build.0 = Release|x64
+		{77F04374-C2D6-4777-8248-C653383B3601}.Release|x86.ActiveCfg = Release|Win32
+		{77F04374-C2D6-4777-8248-C653383B3601}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64412CDE-C7FC-4435-92A2-9E77AFF69C99}
+	EndGlobalSection
+EndGlobal
